@@ -1,0 +1,135 @@
+    1  inxi -b
+    2  lspci
+    3  sudo apt update
+    4  sudo inxi -Gx
+    5  python3 nodes_8.py 
+    6  sudo apt install python3-pip
+    7  sudo pip3 install matploitlib
+    8  sudo pip3 install --upgrade pip
+    9  sudo pip3 install matploitlib
+   10  sudo apt install python3-matplotlib
+   11  sudo apt install python3-tk
+   12  python3 nodes_8_for_topology.py 
+   13  chmod 777 dot.profile
+   14  sudo chmod 777 dot.profile
+   15  sudo apt-get update
+   16  sudo apt-get install build-essential automake autoconf libxmu-dev
+   17  cd ns-allinone-2.35/
+   18  ./install 
+   19  ls
+   20  source .profile
+   21  clear
+   22  sudo apt-get install build-essential automake autoconf libxmu-dev 
+   23  source .profile
+   24  source dot.profile
+   25  gedit /home/tareq/.profile 
+   26  sudo apt install gedit
+   27  gedit /home/tareq/.profile 
+   28  source .profile
+   29  ns
+   30  sudo apt install ns2
+   31  ns
+   32  awk -f e2edelay.awk aout10.tr
+   33  awk -f throughput.awk aout10.tr 
+   34  ns atopology_astarfish10_wifi.tcl 
+   35  ns atopology_astarfish10m.tcl 
+   36  ns atopology_astarfish10m.tcl 
+   37  awk -f e2edelay.awk aout10.tr
+   38  awk -f throughput.awk aout10.tr 
+   39  ns atopology_astarfish10_wifi.tcl 
+   40  awk -f e2edelay.awk aout10.tr
+   41  awk -f throughput.awk aout10.tr 
+   42  ns atopology_astarfish10_wifi.tcl 
+   43  awk -f e2edelay.awk aout10.tr
+   44  awk -f throughput.awk aout10.tr 
+   45  ns energy.tcl 
+   46  ns energy.tcl
+   47  nam out.nam 
+   48  sudo apt install nam
+   49  nam out.nam 
+   50  ns energy.tcl
+   51  nam out.nam 
+   52  ns energy.tcl
+   53  nam out.nam 
+   54  ns energy.tcl
+   55  awk -f e2edelay.awk aout10.tr
+   56  awk -f throughput.awk aout10.tr 
+   57  ns topology_ring1.tcl 
+   58  awk -f e2edelay.awk aout10.tr
+   59  awk -f throughput.awk
+   60  ns atopology_astarfish10_wifi.tcl 
+   61  ns atopology_astarfish10m.tcl 
+   62  awk -f e2edelay.awk aout10.tr
+   63  awk -f throughput.awk aout10.tr 
+   64  awk -f e2edelay.awk aout10.tr
+   65  awk -f throughput.awk aout10.tr 
+   66  ns atopology_astarfish10m.tcl 
+   67  awk -f e2edelay.awk aout10.tr
+   68  awk -f throughput.awk aout10.tr 
+   69  ns ptopology_pstarfishspiralflow16.tcl 
+   70  nam pout.nam 
+   71  nam
+   72  ns ptopology_pstarfishspiralflow16.tcl 
+   73  ns wpan_demo1.tcl 
+   74  nam wpan_demo1.nam 
+   75  ns topology_ring1.tcl 
+   76  ns topology_ring.tcl 
+   77  sudo apt-get install git
+   78  git --version 
+   79  clear
+   80  cd Desktop/
+   81  mkdir GIT-Workshop
+   82  history
+   83  gedit hello.cpp
+   84  ls
+   85  gedit hello.cpp
+   86  s -la
+   87  ls -la
+   88  git config --list 
+   89  git config --global user.name "MD AHSAN HABIB"
+   90  git config --list 
+   91  git config --global user.email "ahsan.habib.tareq@gmail.com"
+   92  git config --list 
+   93  git init
+   94  ls
+   95  ls -la
+   96  git status 
+   97  git add hello.cpp
+   98  git status 
+   99  git commit -m "First commit"
+  100  git status 
+  101  git log 
+  102  vim -version
+  103  vi
+  104  ls -la
+  105  git diff
+  106  git add .
+  107  git status 
+  108  git commit -m "return statement"
+  109  gedit sum.cpp
+  110  git status 
+  111  git add .
+  112  git status 
+  113  git commit -am "sum feature added"
+  114  gedit sum.pp
+  115  gedit sum.cpp
+  116  git status 
+  117  git commit -am "sum modified"
+  118  git status 
+  119  git log
+  120  gedit sum.cpp
+  121  git diff
+  122  git reset --hard 342626b9e6670d57007ea86aa5efa5038be5bca0
+  123  git status 
+  124  cat sum.cpp
+  125  git status 
+  126  git log
+  127  git checkout fee57bedceaaf7b405a7906f6c5c42eba605d2ac
+  128  ls -la
+  129  cat hello.cpp
+  130  git log
+  131  git checkout -
+  132  git log
+  133  ls -la
+  134  history
+  135  history > command.txt
