@@ -2,6 +2,6 @@
 
 int main(){
 	int a,b;
-	printf("%d\n",a+b);
+	printf("sum=%d\n",a+b);
 	return 0;
 }
