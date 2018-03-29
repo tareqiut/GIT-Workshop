@@ -3,6 +3,7 @@
 int main(){
 
 
-printf("Hellow world");
+printf("Hellow ");
+printf("GIT workshop");
 return 0;
 }
